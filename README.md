@@ -21,8 +21,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/shaialt/shaialt/output/github-snake.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/shaialt/shaialt/output/snake.svg" alt="Snake animation" />
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaialt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shaialt&theme=dark&hide_border=false)<br/>
