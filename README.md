@@ -4,7 +4,7 @@
 
 🛜 currently working on my own webpage<br>
 🎓 currently studying for a diploma in Software Engineering<br>
-👨‍💻 working as a wev developer since 2018
+👨‍💻 working as a web developer since 2018
 
 # 💫 About Me:
 <br>DevOps-oriented developer with a passion for automation, CI/CD, and cloud-native infrastructure. Experienced in system design, scripting, and low-level logic using C# and Assembly. Continuously expanding my knowledge of modern deployment workflows and containerized environments. Also a Full Stack developer with hands-on experience building responsive web applications using HTML, CSS, and JavaScript. Skilled in backend development with C# and relational database design with SQL. I value clean architecture, seamless user experiences, and maintainable codebases.<br>
