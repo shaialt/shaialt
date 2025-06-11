@@ -1,4 +1,4 @@
-<div style="background-color: white; color: black">
+![GitHub Banner](https://yourbannerlink.com/banner-white.jpg)
 <img src="https://static.vecteezy.com/system/resources/thumbnails/006/198/869/small/internet-security-protection-from-hacker-attacking-cyber-attack-and-network-security-concept-free-photo.jpg" alt="GitHub Bunner" width="100%">
 
 <h1>Hello World!, i'm Shai, an Israeli DevOps & FullStack Developer</h1>
@@ -24,5 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shaialt&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
