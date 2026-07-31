@@ -1,6 +1,6 @@
 <img src="https://static.vecteezy.com/system/resources/thumbnails/006/198/869/small/internet-security-protection-from-hacker-attacking-cyber-attack-and-network-security-concept-free-photo.jpg" alt="GitHub Bunner" width="100%">
 
-<h1>Hello World!, i'm Shai, an Israeli DevOps & FullStack Developer</h1>
+<h1>Hello World!, i'm Shai, an Israeli Data Analyst & FullStack Developer</h1>
 
 🛜 currently working on my own webpage<br>
 🎓 currently studying for a diploma in Software Engineering<br>
