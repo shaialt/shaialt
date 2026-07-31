@@ -1,13 +1,14 @@
 <img src="ChatGPT%20Image%20Jul%2031,%202026,%2002_31_58%20PM.png" alt="GitHub Bunner" width="100%">
 
-<h1>Hello World!, i'm Shai, an Israeli Data Analyst & FullStack Developer</h1>
+<h1>Hello World! 👋 I'm Shai,
+Data Analyst & Software Engineering Student</h1>
 
-🛜 currently working on my own webpage<br>
-🎓 currently studying for a diploma in Software Engineering<br>
-👨‍💻 working as a web developer since 2018
+📊 Building data analytics projects
+🎓 Software Engineering Student
+💻 Passionate about Data, SQL, Python & C#
 
 # 💫 About Me:
-<br>DevOps-oriented developer with a passion for automation, CI/CD, and cloud-native infrastructure. Experienced in system design, scripting, and low-level logic using C# and Assembly. Continuously expanding my knowledge of modern deployment workflows and containerized environments. Also a Full Stack developer with hands-on experience building responsive web applications using HTML, CSS, and JavaScript. Skilled in backend development with C# and relational database design with SQL. I value clean architecture, seamless user experiences, and maintainable codebases.<br>
+<br>I'm a Software Engineering student with a strong passion for Data Analytics and software development. I enjoy transforming raw data into meaningful insights using SQL, Python, Power BI, and Tableau while also building applications with C#. I believe that combining analytical thinking with software engineering helps create better products and smarter business decisions..<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shailevi2004@gmail.com)
