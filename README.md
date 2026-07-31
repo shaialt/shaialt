@@ -1,4 +1,4 @@
-<img src="https://static.vecteezy.com/system/resources/thumbnails/006/198/869/small/internet-security-protection-from-hacker-attacking-cyber-attack-and-network-security-concept-free-photo.jpg" alt="GitHub Bunner" width="100%">
+<img src="ChatGPT%20Image%20Jul%2031,%202026,%2002_31_58%20PM.png" alt="GitHub Bunner" width="100%">
 
 <h1>Hello World!, i'm Shai, an Israeli Data Analyst & FullStack Developer</h1>
 
